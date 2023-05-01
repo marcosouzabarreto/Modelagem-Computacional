@@ -1,0 +1,1 @@
+gfortran integral/index.f90 && ./a.out

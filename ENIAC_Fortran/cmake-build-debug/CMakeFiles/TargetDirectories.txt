@@ -1,0 +1,3 @@
+/Users/marcobarreto/Documents/Programming/College/7o Semestre/Modelagem Computacional/cmake-build-debug/CMakeFiles/Modelagem_Computacional.dir
+/Users/marcobarreto/Documents/Programming/College/7o Semestre/Modelagem Computacional/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/marcobarreto/Documents/Programming/College/7o Semestre/Modelagem Computacional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
